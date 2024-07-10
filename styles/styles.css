@@ -341,7 +341,8 @@
     padding: 15px;
     border: none;
     border-radius: 8px;
-    color:#54586362
+    color:#0D1321;
+    font-size: 15px;
   }
 
   .form-submit {
